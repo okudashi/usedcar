@@ -1,0 +1,5 @@
+./data/air*
+./data/flig*
+*.icloud
+./doc/*.pptx
+.ipynb_checkpoints
